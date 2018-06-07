@@ -13,3 +13,6 @@ add require fs path
 
 ## 1.0.4
 update readme.md
+
+## 1.0.5
+update readme.md
