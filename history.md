@@ -10,3 +10,6 @@ update readme.md
 ## 1.0.3
 update index.js
 add require fs path
+
+## 1.0.4
+update readme.md

@@ -1,7 +1,7 @@
 ## install
 ```
 
-npm install csv-parser
+npm i csvparser_aning
 ```
 
 ## usage
